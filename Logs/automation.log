@@ -1,0 +1,115 @@
+2025-09-20 08:01:18.904 [main] INFO  TestCases.TC_01LoginTest - Loggin in to the applicaiton
+2025-09-20 08:33:45.693 [main] INFO  TestCases.TC_01LoginTest - Loggin in to the applicaiton
+2025-09-22 10:02:08.098 [main] INFO  TestCases.TC_01LoginTest - Loggin in to the applicaiton
+2025-09-22 10:09:48.066 [main] INFO  TestCases.TC_01LoginTest - Loggin in to the applicaiton
+2025-09-22 12:10:37.385 [main] INFO  TestCases.TC_01LoginTest - Loggin in to the applicaiton
+2025-09-22 12:18:34.165 [main] INFO  TestCases.TC_01LoginTest - Loggin in to the applicaiton
+2025-09-22 12:21:26.345 [main] INFO  TestCases.TC_01LoginTest - Loggin in to the applicaiton
+2025-09-22 12:22:28.364 [main] INFO  TestCases.TC_01LoginTest - Screenshot saved at: C:\Users\Shreyas\eclipse-workspace\ShreyasAutomation\MPN1\screenshots\login_20250922122228.png
+2025-09-22 12:27:24.844 [main] INFO  TestCases.TC_01LoginTest - Loggin in to the applicaiton
+2025-09-22 12:27:25.076 [main] INFO  TestCases.TC_01LoginTest - Screenshot saved at: C:\Users\Shreyas\eclipse-workspace\ShreyasAutomation\MPN1\screenshots\login_20250922122724.png
+2025-09-22 12:28:20.667 [main] INFO  TestCases.TC_01LoginTest - Loggin in to the applicaiton
+2025-09-22 12:29:23.301 [main] INFO  TestCases.TC_01LoginTest - Screenshot saved at: C:\Users\Shreyas\eclipse-workspace\ShreyasAutomation\MPN1\screenshots\login_20250922122922.png
+2025-09-22 12:30:18.895 [main] INFO  TestCases.TC_01LoginTest - Loggin in to the applicaiton
+2025-09-22 12:31:43.484 [main] INFO  TestCases.TC_01LoginTest - Loggin in to the applicaiton
+2025-09-22 12:32:00.213 [main] INFO  TestCases.TC_01LoginTest - Loggin in to the applicaiton
+2025-09-22 12:45:37.224 [main] INFO  TestCases.TC_01LoginTest - Loggin in to the applicaiton
+2025-09-22 12:54:28.172 [main] INFO  TestCases.TC_01LoginTest - Browser launched and application opened.
+2025-09-22 12:54:28.412 [main] INFO  TestCases.TC_01LoginTest - Logging into the application...
+2025-09-22 12:55:08.937 [main] INFO  TestCases.TC_01LoginTest - Screenshot saved at: C:\Users\Shreyas\eclipse-workspace\ShreyasAutomation\MPN1\screenshots\verifyLoginWithValidCredentials_20250922125508.png
+2025-09-22 12:55:11.782 [main] INFO  TestCases.TC_01LoginTest - Browser closed successfully.
+2025-09-22 13:01:13.029 [main] INFO  TestCases.TC_01LoginTest - Browser launched and application opened.
+2025-09-22 13:01:13.618 [main] INFO  TestCases.TC_01LoginTest - Logging into the application...
+2025-09-22 13:01:58.715 [main] INFO  TestCases.TC_01LoginTest - Screenshot saved at: C:\Users\Shreyas\eclipse-workspace\ShreyasAutomation\MPN1\screenshots\verifyLoginWithValidCredentials_20250922130158.png
+2025-09-22 13:02:02.126 [main] INFO  TestCases.TC_01LoginTest - Browser closed successfully.
+2025-09-23 09:42:59.321 [main] INFO  TestCases.TC_01LoginTest - Browser launched and application opened.
+2025-09-23 09:43:01.075 [main] INFO  TestCases.TC_01LoginTest - Logging into the application...
+2025-09-23 09:43:36.304 [main] INFO  TestCases.TC_01LoginTest - Screenshot saved at: C:\Users\Shreyas\eclipse-workspace\ShreyasAutomation\MPN1\screenshots\verifyLoginWithValidCredentials_20250923094336.png
+2025-09-23 09:43:40.457 [main] INFO  TestCases.TC_01LoginTest - Browser closed successfully.
+2025-09-23 17:25:42.545 [main] INFO  TestCases.TC_01LoginTest - Browser launched and application opened.
+2025-09-23 17:25:43.228 [main] INFO  TestCases.TC_01LoginTest - Logging into the application...
+2025-09-23 17:26:45.690 [main] INFO  TestCases.TC_01LoginTest - Screenshot saved at: C:\Users\Shreyas\eclipse-workspace\ShreyasAutomation\MPN1\screenshots\verifyLoginWithValidCredentials_20250923172645.png
+2025-09-23 17:26:50.999 [main] INFO  TestCases.TC_01LoginTest - Browser closed successfully.
+2025-09-23 17:34:24.227 [main] INFO  TestCases.TC_01LoginTest - Browser launched and application opened.
+2025-09-23 17:34:24.292 [main] INFO  TestCases.TC_01LoginTest - Logging into the application...
+2025-09-23 17:35:27.570 [main] INFO  TestCases.TC_01LoginTest - Browser closed successfully.
+2025-09-23 17:36:51.438 [main] INFO  TestCases.TC_01LoginTest - Browser launched and application opened.
+2025-09-23 17:36:52.219 [main] INFO  TestCases.TC_01LoginTest - Logging into the application...
+2025-09-23 17:37:54.789 [main] INFO  TestCases.TC_01LoginTest - Screenshot saved at: C:\Users\Shreyas\eclipse-workspace\ShreyasAutomation\MPN1\screenshots\verifyLoginWithValidCredentials_20250923173754.png
+2025-09-23 17:37:58.886 [main] INFO  TestCases.TC_01LoginTest - Browser closed successfully.
+2025-09-23 17:40:06.394 [main] INFO  TestCases.TC_01LoginTest - Browser launched and application opened.
+2025-09-23 17:40:06.592 [main] INFO  TestCases.TC_01LoginTest - Logging into the application...
+2025-09-23 17:40:53.897 [main] INFO  TestCases.TC_01LoginTest - ✅ Login successful: Logo is visible
+2025-09-23 17:40:55.084 [main] INFO  TestCases.TC_01LoginTest - Browser closed successfully.
+2025-09-23 17:41:31.187 [main] INFO  TestCases.TC_01LoginTest - Browser launched and application opened.
+2025-09-23 17:41:32.033 [main] INFO  TestCases.TC_01LoginTest - Logging into the application...
+2025-09-23 17:42:18.652 [main] INFO  TestCases.TC_01LoginTest - ✅ Login successful: Logo is visible
+2025-09-23 17:42:24.969 [main] INFO  TestCases.TC_01LoginTest - Browser closed successfully.
+2025-09-23 17:49:42.506 [main] INFO  TestCases.TC_01LoginTest - Browser launched and application opened.
+2025-09-23 17:49:43.211 [main] INFO  TestCases.TC_01LoginTest - Logging into the application...
+2025-09-23 17:50:29.837 [main] INFO  TestCases.TC_01LoginTest - ✅ Login successful: Logo is visible
+2025-09-23 17:50:33.819 [main] INFO  TestCases.TC_01LoginTest - Browser closed successfully.
+2025-09-25 09:31:54.847 [main] INFO  TestCases.TC_01LoginTest - Browser launched and application opened.
+2025-09-25 09:31:55.335 [main] INFO  TestCases.TC_01LoginTest - Logging into the application...
+2025-09-25 09:32:41.751 [main] INFO  TestCases.TC_01LoginTest - ✅ Login successful: Logo is visible
+2025-09-25 09:32:41.799 [main] INFO  TestCases.TC_02CreatePatientTest - Creating new patient
+2025-09-25 09:32:50.919 [main] INFO  TestCases.TC_01LoginTest - Browser closed successfully.
+2025-09-26 11:43:58.664 [main] INFO  TestCases.TC_01LoginTest - Browser launched and application opened.
+2025-09-26 11:43:59.650 [main] INFO  TestCases.TC_01LoginTest - Logging into the application...
+2025-09-26 11:44:46.328 [main] INFO  TestCases.TC_01LoginTest - ✅ Login successful: Logo is visible
+2025-09-26 11:44:46.378 [main] INFO  TestCases.TC_02CreatePatientTest - Creating new patient
+2025-09-26 11:45:09.652 [main] INFO  TestCases.TC_02CreatePatientTest - Screenshot saved at: C:\Users\Shreyas\eclipse-workspace\ShreyasAutomation\MPN1\screenshots\CNP_20250926114509.png
+2025-09-26 11:48:22.500 [main] INFO  TestCases.TC_01LoginTest - Browser launched and application opened.
+2025-09-26 11:48:23.125 [main] INFO  TestCases.TC_01LoginTest - Logging into the application...
+2025-09-26 11:49:09.667 [main] INFO  TestCases.TC_01LoginTest - ✅ Login successful: Logo is visible
+2025-09-26 11:49:09.698 [main] INFO  TestCases.TC_02CreatePatientTest - Creating new patient
+2025-09-26 11:49:23.038 [main] INFO  TestCases.TC_01LoginTest - Browser closed successfully.
+2025-09-26 11:56:36.960 [main] INFO  TestCases.TC_01LoginTest - Browser launched and application opened.
+2025-09-26 11:56:37.605 [main] INFO  TestCases.TC_01LoginTest - Logging into the application...
+2025-09-26 11:57:24.072 [main] INFO  TestCases.TC_01LoginTest - ✅ Login successful: Logo is visible
+2025-09-26 11:57:24.104 [main] INFO  TestCases.TC_02CreatePatientTest - Creating new patient
+2025-09-26 11:57:44.675 [main] INFO  TestCases.TC_02CreatePatientTest - Screenshot saved at: C:\Users\Shreyas\eclipse-workspace\ShreyasAutomation\MPN1\screenshots\CNP_20250926115744.png
+2025-09-26 11:57:46.780 [main] INFO  TestCases.TC_03AddServicesTest - Screenshot saved at: C:\Users\Shreyas\eclipse-workspace\ShreyasAutomation\MPN1\screenshots\ADT_20250926115746.png
+2025-09-26 11:57:50.916 [main] INFO  TestCases.TC_01LoginTest - Browser closed successfully.
+2025-09-26 12:03:29.494 [main] INFO  TestCases.TC_01LoginTest - Browser launched and application opened.
+2025-09-26 12:03:29.865 [main] INFO  TestCases.TC_01LoginTest - Logging into the application...
+2025-09-26 12:04:28.688 [main] INFO  TestCases.TC_01LoginTest - Screenshot saved at: C:\Users\Shreyas\eclipse-workspace\ShreyasAutomation\MPN1\screenshots\verifyLoginWithValidCredentials_20250926120428.png
+2025-09-26 12:04:28.714 [main] INFO  TestCases.TC_02CreatePatientTest - Creating new patient
+2025-09-26 12:04:36.455 [main] INFO  TestCases.TC_03AddServicesTest - Screenshot saved at: C:\Users\Shreyas\eclipse-workspace\ShreyasAutomation\MPN1\screenshots\ADT_20250926120436.png
+2025-09-26 12:04:40.342 [main] INFO  TestCases.TC_01LoginTest - Browser closed successfully.
+2025-09-26 12:06:47.603 [main] INFO  TestCases.TC_03AddServicesTest - Browser launched and application opened.
+2025-09-26 12:07:15.653 [main] INFO  TestCases.TC_01LoginTest - Browser launched and application opened.
+2025-09-26 12:07:16.297 [main] INFO  TestCases.TC_01LoginTest - Logging into the application...
+2025-09-26 12:08:15.380 [main] INFO  TestCases.TC_01LoginTest - Screenshot saved at: C:\Users\Shreyas\eclipse-workspace\ShreyasAutomation\MPN1\screenshots\verifyLoginWithValidCredentials_20250926120815.png
+2025-09-26 12:08:15.420 [main] INFO  TestCases.TC_02CreatePatientTest - Creating new patient
+2025-09-26 12:08:28.074 [main] INFO  TestCases.TC_03AddServicesTest - Screenshot saved at: C:\Users\Shreyas\eclipse-workspace\ShreyasAutomation\MPN1\screenshots\ADT_20250926120827.png
+2025-09-26 12:08:32.216 [main] INFO  TestCases.TC_01LoginTest - Browser closed successfully.
+2025-09-26 12:09:41.341 [main] INFO  TestCases.TC_01LoginTest - Browser launched and application opened.
+2025-09-26 12:09:42.064 [main] INFO  TestCases.TC_01LoginTest - Logging into the application...
+2025-09-26 12:10:28.324 [main] INFO  TestCases.TC_01LoginTest - ✅ Login successful: Logo is visible
+2025-09-26 12:10:28.372 [main] INFO  TestCases.TC_02CreatePatientTest - Creating new patient
+2025-09-26 12:10:35.032 [main] INFO  TestCases.TC_03AddServicesTest - Screenshot saved at: C:\Users\Shreyas\eclipse-workspace\ShreyasAutomation\MPN1\screenshots\ADT_20250926121034.png
+2025-09-26 12:10:38.908 [main] INFO  TestCases.TC_01LoginTest - Browser closed successfully.
+2025-09-26 12:21:39.011 [main] INFO  TestCases.TC_01LoginTest - Browser launched and application opened.
+2025-09-26 12:21:39.434 [main] INFO  TestCases.TC_01LoginTest - Logging into the application...
+2025-09-26 12:22:26.093 [main] INFO  TestCases.TC_01LoginTest - ✅ Login successful: Logo is visible
+2025-09-26 12:22:26.138 [main] INFO  TestCases.TC_02CreatePatientTest - Creating new patient
+2025-09-26 12:22:32.133 [main] INFO  TestCases.TC_03AddServicesTest - Screenshot saved at: C:\Users\Shreyas\eclipse-workspace\ShreyasAutomation\MPN1\screenshots\ADT_20250926122231.png
+2025-09-26 12:22:36.015 [main] INFO  TestCases.TC_01LoginTest - Browser closed successfully.
+2025-09-26 16:21:35.085 [main] INFO  TestCases.TC_01LoginTest - Browser launched and application opened.
+2025-09-26 16:21:35.542 [main] INFO  TestCases.TC_01LoginTest - Logging into the application...
+2025-09-26 16:22:21.915 [main] INFO  TestCases.TC_01LoginTest - ✅ Login successful: Logo is visible
+2025-09-26 16:22:21.965 [main] INFO  TestCases.TC_02CreatePatientTest - Creating new patient
+2025-09-26 16:22:34.518 [main] INFO  TestCases.TC_01LoginTest - Browser closed successfully.
+2025-09-27 08:38:57.791 [main] INFO  TestCases.TC_01LoginTest - Browser launched and application opened.
+2025-09-27 08:38:58.630 [main] INFO  TestCases.TC_01LoginTest - Logging into the application...
+2025-09-27 08:39:44.941 [main] INFO  TestCases.TC_01LoginTest - ✅ Login successful: Logo is visible
+2025-09-27 08:39:44.973 [main] INFO  TestCases.TC_02CreatePatientTest - Creating new patient
+2025-09-27 08:40:01.586 [main] INFO  TestCases.TC_01LoginTest - Browser closed successfully.
+2025-09-27 15:27:59.841 [main] INFO  TestCases.TC_01LoginTest - Browser launched and application opened.
+2025-09-27 15:28:00.691 [main] INFO  TestCases.TC_01LoginTest - Logging into the application...
+2025-09-27 15:29:01.212 [main] INFO  TestCases.TC_01LoginTest - Screenshot saved at: C:\Users\Shreyas\eclipse-workspace\ShreyasAutomation\MPN1\screenshots\verifyLoginWithValidCredentials_20250927152901.png
+2025-09-27 15:29:01.237 [main] INFO  TestCases.TC_02CreatePatientTest - Creating new patient
+2025-09-27 15:29:28.157 [main] INFO  TestCases.TC_01LoginTest - Browser closed successfully.
+2025-09-27 15:41:59.518 [main] INFO  TestCases.TC_01LoginTest - Browser launched and application opened.
+2025-09-27 15:42:00.212 [main] INFO  TestCases.TC_01LoginTest - Logging into the application...

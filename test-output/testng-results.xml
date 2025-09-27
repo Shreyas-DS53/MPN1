@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-26T16:21:35 IST" name="Suite" finished-at="2025-09-26T16:22:31 IST" duration-ms="55986">
+    <groups>
+    </groups>
+    <test started-at="2025-09-26T16:21:35 IST" name="Test" finished-at="2025-09-26T16:22:31 IST" duration-ms="55986">
+      <class name="TestCases.TC_01LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TC_01LoginTest@41709512]" started-at="2025-09-26T16:21:27 IST" name="setup" finished-at="2025-09-26T16:21:35 IST" duration-ms="7113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithValidCredentials()[pri:0, instance:TestCases.TC_01LoginTest@41709512]" started-at="2025-09-26T16:21:35 IST" name="verifyLoginWithValidCredentials" finished-at="2025-09-26T16:22:21 IST" duration-ms="46404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.TC_01LoginTest@41709512]" started-at="2025-09-26T16:22:33 IST" name="teardown" finished-at="2025-09-26T16:22:34 IST" duration-ms="589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCases.TC_01LoginTest -->
+      <class name="TestCases.TC_03AddServicesTest">
+        <test-method signature="ADT()[pri:0, instance:TestCases.TC_03AddServicesTest@7d1cfb8b]" started-at="2025-09-26T16:22:26 IST" name="ADT" finished-at="2025-09-26T16:22:31 IST" duration-ms="4237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ADT -->
+      </class> <!-- TestCases.TC_03AddServicesTest -->
+      <class name="TestCases.TC_02CreatePatientTest">
+        <test-method signature="CNP()[pri:0, instance:TestCases.TC_02CreatePatientTest@63787180]" started-at="2025-09-26T16:22:21 IST" name="CNP" finished-at="2025-09-26T16:22:26 IST" duration-ms="4871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CNP -->
+      </class> <!-- TestCases.TC_02CreatePatientTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
