@@ -1,4 +1,4 @@
-Selenium Automation Framework – MPN1
+**Selenium Automation Framework – MPN1**
 📌 Project Description
 
 This project is a Selenium Automation Framework developed using Java and TestNG.
